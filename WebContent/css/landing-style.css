@@ -1,0 +1,20 @@
+h1,h5{
+	text-align: center;
+}
+
+header{
+	text-align: right;
+}
+
+form{
+	text-align: center;
+}
+
+#recommended{
+	height: 700px;
+	border: 1px solid red;
+	margin-top: 20px;
+}
+#recommended>h2{
+	text-align: center;
+}
