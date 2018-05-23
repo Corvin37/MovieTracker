@@ -6,6 +6,8 @@
     <title>Movie Tracker</title>
     <link rel="stylesheet" type="text/css" href="../css/common/style.css">
     <link rel="stylesheet" type="text/css" href="../css/landing-style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="../javascript/script.js"></script>
 </head>
 <body>
 	<header>
@@ -24,6 +26,7 @@
 	</form>
 	<div id="recommended">
 		<h2>Hot this week</h2>
+		<div id="content"></div>
 		<!-- Populate on login -->
 	</div>
 </body>
