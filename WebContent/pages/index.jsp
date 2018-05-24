@@ -17,7 +17,7 @@
 			<input id="pwd-field" class="input-field" type="password" name="password"/></br>
 			<input id="login-button" class="button" type="submit" value="Log In"/>	
 		</form>
-		<input id="guest-btn" class="btn" onclick="#" type="button" value="Guest">
+		<a href="landing.jsp"><input id="guest-btn" class="btn" type="button" value="Guest"></a>
 	</div>
 </body>
 </html>
