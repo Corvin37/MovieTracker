@@ -15,8 +15,8 @@
 		<%= "<h5>Welcome, (nume aici)!</h5>" %>
 		<nav id="navbar">
 			<ul id="menu">
-				<li><a href="#wishlist.jsp">Wishlist</a>
-				<li><a href="#logout.jsp">Log Out</a>
+				<li><a href="wishlist.jsp">Wishlist</a></li>
+				<li><a href="index.jsp">Log Out</a></li>
 			</ul>
 		</nav>
 	</header>
