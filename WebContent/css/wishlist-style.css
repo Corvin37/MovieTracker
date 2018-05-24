@@ -1,0 +1,53 @@
+h1,h4{
+	text-align: center;
+}
+h1{
+	margin-top: 80px;
+}
+
+#wishlist{
+	height: auto;
+	margin-top: 20px;
+	border: 1px solid red;
+}
+
+#wishlist-movies{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#wishlist-movies>div{
+	margin: auto;
+	background-color: #4e4e4e;
+	height: 350px;
+	position: relative;
+	width: 90%;
+}
+#wishlist-movies>div>img{
+	position: absolute;
+	left: 25px;
+	top: 25px;
+}
+#wishlist-movies>div>h1{
+	color: white;
+	position: relative;
+	margin-left: 250px;
+	word-wrap: break-word;
+}
+#wishlist-movies>div>h4{
+	color: white;
+	position: relative;
+	margin-left: 250px;
+	word-wrap: break-word;
+}
+#wishlist-movies>div>p{
+	word-wrap: break-word;
+	color: white;
+	position: relative;
+	margin-left: 250px;
+	margin-right: 25px;
+}
+#wishlist-movies>div>input{
+	position: relative;
+	margin-left: 250px;
+	margin-right: 25px;
+}

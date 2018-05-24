@@ -1,9 +1,8 @@
 h1,h5{
 	text-align: center;
 }
-
-header{
-	text-align: right;
+h1{
+	margin-top: 80px;
 }
 
 form{
@@ -11,10 +10,21 @@ form{
 }
 
 #recommended{
-	height: 700px;
-	border: 1px solid red;
+	height: auto;
 	margin-top: 20px;
 }
 #recommended>h2{
 	text-align: center;
+}
+
+#content{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+img{
+	display: inline-block;
+	margin: auto;
+	width: 25%;
+	padding: 0;
+	border: 0;
 }

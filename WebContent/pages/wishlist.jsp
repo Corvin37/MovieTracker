@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="../css/common/style.css">
     <link rel="stylesheet" type="text/css" href="../css/wishlist-style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="../javascript/script.js"></script>
+    <script src="../javascript/wishlist.js"></script>
 </head>
 <body>
 	<header>
@@ -21,7 +21,7 @@
 		</nav>
 	</header>
 	<div id="wishlist">
-		<div id="content"></div>
+		<div id="wishlist-movies"></div>
 		<!-- Populate with user's movies -->
 	</div>
 </body>
